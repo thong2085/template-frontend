@@ -353,7 +353,7 @@ export default function App() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h3 className="text-lg font-bold mb-2">Template Website Bán Hàng</h3>
           <p className="text-gray-400 mb-4">
-            Bộ sưu tập 3 template hiện đại cho các lĩnh vực bán hàng khác nhau
+            Bộ sưu tập 13 template hiện đại cho các lĩnh vực bán hàng khác nhau
           </p>
           <div className="flex justify-center space-x-8 text-sm text-gray-500">
             <span>• Responsive Design</span>
